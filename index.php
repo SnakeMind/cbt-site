@@ -13,7 +13,7 @@
     <p>This should be the header</p>
 </header>
 <nav>
-    <p>Here goes a basic navigation shizzle</p>
+    <p>Here goes a basic navigation shizzle and stuvv</p>
 </nav>
 <section>
     <h1>Here goes introduction and title of the course you are watching mate!</h1>
