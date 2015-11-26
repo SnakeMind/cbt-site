@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
  <head>
   <title>CBT learning made easy</title>
