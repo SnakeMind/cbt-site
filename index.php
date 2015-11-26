@@ -26,8 +26,8 @@
     <?php echo 'We have to start somewhere right?'; ?></p> 
 </article>
 <footer>
-    <p>Created by Maurice Post <&copy;>2015 Rodeion / Ultimum BV</p>
-    <p>Contact me at <a href="mailto:maurice.post@ultimum.nl</a>maurice.post@ultimum.nl</p>
+    <p>Created by Maurice Post &copy;2015 Rodeion / Ultimum BV</p>
+    <p>Contact me at <a href="mailto:maurice.post@ultimum.nl">maurice.post@ultimum.nl</a></p>
 </footer>
 </body>
 </html>
