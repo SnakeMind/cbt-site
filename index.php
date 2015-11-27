@@ -10,14 +10,26 @@
 </head>
 <body>
 <header>
-    <p>This should be the header</p>
+<div class="header">
+    <h1>This should be the header</h1>
+</div>
 </header>
-<nav>
-    <p>Here goes a basic navigation shizzle and stuvv</p>
-</nav>
 <section>
-    <h1>Here goes introduction and title of the course you are watching mate!</h1>
-<section>
+<div class="row">
+    <div class="col-2 menu">
+    <ul>
+        <li>Courses</li>
+        <li>Exams</li>
+        <li>Requests</li>
+        <li>About</li>
+    </ul>
+    </div>
+    <div class="col-8">
+        <h1>Here goes introduction and title of the course you are watching mate!</h1>
+    </div>
+    <div class="col-2"></div>
+</div>
+</section>
 <arcticle>
     <header>
         <h1>You are now watching...</h1>
